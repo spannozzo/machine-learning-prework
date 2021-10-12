@@ -32,16 +32,16 @@ In general terms, we will cover the following topics, please not that this table
 
 Prework
 
-1. Coding in Python: Loops, Functions, Classes & Objects. 
-2. Most used libraries: Numpy, Pandas & MathPlotLib.
-3. Working with files.
-4. Working with the terminal.
-5. Introduction to Data Science.
-    5.1. Types of data: numerical, categorical, ordinal, 
-    5.2. Types of averages: mean, medium, mode.
-    5.3. Types of spread: 
-    5.4. Quantile vs Percentile
-    5.5. Data visualization: 
-            5.5.1. One variable: Histogram, Bar Plot, Pie Chart.
-            5.5.2. Two variable: Scatter Plot, Line Plot, 2D Histogram.
-            5.5.3. Three Variable: Heat Map, Multivar Line Plot.
+1. Coding in Python: Loops, Functions, Classes & Objects.  
+2. Most used libraries: Numpy, Pandas & MathPlotLib.  
+3. Working with files.  
+4. Working with the terminal.  
+5. Introduction to Data Science.  
+    5.1. Types of data: numerical, categorical, ordinal,   
+    5.2. Types of averages: mean, medium, mode.  
+    5.3. Types of spread.   
+    5.4. Quantile vs Percentile. 
+    5.5. Data visualization:   
+            5.5.1. One variable: Histogram, Bar Plot, Pie Chart.  
+            5.5.2. Two variable: Scatter Plot, Line Plot, 2D Histogram.  
+            5.5.3. Three Variable: Heat Map, Multivar Line Plot.  
