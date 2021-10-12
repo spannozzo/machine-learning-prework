@@ -40,7 +40,7 @@ Prework
     5.1. Types of data: numerical, categorical, ordinal,   
     5.2. Types of averages: mean, medium, mode.  
     5.3. Types of spread.   
-    5.4. Quantile vs Percentile. 
+    5.4. Quantile vs Percentile.  
     5.5. Data visualization:   
             5.5.1. One variable: Histogram, Bar Plot, Pie Chart.  
             5.5.2. Two variable: Scatter Plot, Line Plot, 2D Histogram.  
