@@ -2,20 +2,21 @@
 
 ### Lessons:
 
-- About python (done).   
+- About python: `Alejandro`   
    1. [x] Intro to python.  
    2. [x] Working with strings in python.
-   3. [ ] Datatypes Tuple, List, Array (pandas), etc.   
-   4. [ ] Logical operations.  
-   5. [ ] Functions in python.  
-   6. [ ] Python classes.  
-- Popular Libraries.  
+   3. [x] Working with contitionals in python.
+   4. [ ] Datatypes Tuple, List, Array (pandas), etc.   
+   5. [ ] Logical operations.  
+   6. [ ] Functions in python.  
+   7. [ ] Python classes.  
+- Popular Libraries: `Henry`
    1. [ ] How to use numpy in AI.  
    2. [ ] How to use Pandas in AI.  
    3. [ ] How to use MatPlotLib (we will talk more about this).  
    4. [ ] Working with files (new lesson but its pandas).  
-- [x] The command line.  
-- Data Science Intro:  
+- [x] The command line `Alejandro`:
+- Data Science Intro `Henry`  
    1. [ ] Types of data.  
    2. [ ] Metricas estadisticas.  
    3. [ ] Quantile vs Percentile.  
