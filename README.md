@@ -3,8 +3,8 @@
 ## Lessons:
 
 1. About python (done). 
-   1.1. Intro to python. 
-   1.2. Datatypes Tupla, Lista, Array (pandas), etc.  
+   1.1. Intro to python.  
+   1.2. Datatypes Tupla, Lista, Array (pandas), etc.   
    1.3. Logical operations.  
    1.4. Functions in python.  
    1.4. Python classes.  
