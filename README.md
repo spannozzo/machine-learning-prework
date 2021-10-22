@@ -2,25 +2,25 @@
 
 ### Lessons:
 
-1. [ ] About python (done).   
-   1.1. [ ] Intro to python.  
-   1.2. Datatypes Tupla, Lista, Array (pandas), etc.   
-   1.3. Logical operations.  
-   1.4. Functions in python.  
-   1.4. Python classes.  
-2. Popular Libraries.  
-   2.1. How to use numpy in AI.  
-   2.2. How to use Pandas in AI.  
-   2.3. How to use MatPlotLib (we will talk more about this).  
-   2.4. Working with files (new lesson but its pandas).  
-3. The command line.  
-4. Data Science Intro:  
-   4.1. Types of data.  
-   4.1. Metricas estadisticas.  
-   4.1. Quantile vs Percentile.  
-   4.1. Data visualization: One variable.  
-   4.1. Data visualization: Two variable.  
-   4.1. Data visualization: Three variable.  
+- About python (done).   
+   1. [x] Intro to python.  
+   2. [ ] Datatypes Tuple, List, Array (pandas), etc.   
+   3. [ ] Logical operations.  
+   4. [ ] Functions in python.  
+   5. [ ] Python classes.  
+- Popular Libraries.  
+   1. [ ] How to use numpy in AI.  
+   2. [ ] How to use Pandas in AI.  
+   3. [ ] How to use MatPlotLib (we will talk more about this).  
+   4. [ ] Working with files (new lesson but its pandas).  
+- [x] The command line.  
+- Data Science Intro:  
+   1. [ ] Types of data.  
+   2. [ ] Metricas estadisticas.  
+   3. [ ] Quantile vs Percentile.  
+   4. [ ] Data visualization: One variable.  
+   5. [ ] Data visualization: Two variable.  
+   6. [ ] Data visualization: Three variable.  
 
 ## Excercises:
 
