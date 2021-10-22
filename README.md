@@ -4,10 +4,11 @@
 
 - About python (done).   
    1. [x] Intro to python.  
-   2. [ ] Datatypes Tuple, List, Array (pandas), etc.   
-   3. [ ] Logical operations.  
-   4. [ ] Functions in python.  
-   5. [ ] Python classes.  
+   2. [x] Working with strings in python.
+   3. [ ] Datatypes Tuple, List, Array (pandas), etc.   
+   4. [ ] Logical operations.  
+   5. [ ] Functions in python.  
+   6. [ ] Python classes.  
 - Popular Libraries.  
    1. [ ] How to use numpy in AI.  
    2. [ ] How to use Pandas in AI.  
