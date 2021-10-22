@@ -8,8 +8,7 @@
    3. [x] Working with contitionals in python.
    4. [x] Datatypes Tuple vs List.
    5. [ ] Array's in pandas.
-   6. [ ] Logical operations.  
-   7. [ ] Functions in python.  
+   7. [x] Functions in python.  
    8. [ ] Python classes.  
 - Popular Libraries: `Henry`
    1. [ ] How to use numpy in AI.  
