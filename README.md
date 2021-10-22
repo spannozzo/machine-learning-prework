@@ -6,10 +6,11 @@
    1. [x] Intro to python.  
    2. [x] Working with strings in python.
    3. [x] Working with contitionals in python.
-   4. [ ] Datatypes Tuple, List, Array (pandas), etc.   
-   5. [ ] Logical operations.  
-   6. [ ] Functions in python.  
-   7. [ ] Python classes.  
+   4. [x] Datatypes Tuple vs List.
+   5. [ ] Array's in pandas.
+   6. [ ] Logical operations.  
+   7. [ ] Functions in python.  
+   8. [ ] Python classes.  
 - Popular Libraries: `Henry`
    1. [ ] How to use numpy in AI.  
    2. [ ] How to use Pandas in AI.  
