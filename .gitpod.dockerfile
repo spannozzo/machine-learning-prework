@@ -1,2 +1,2 @@
-FROM gitpod/workspace-full  # Install custom tools, runtime, etc.
+FROM gitpod/workspace-full
 RUN pip3 install -r requirements.txt
