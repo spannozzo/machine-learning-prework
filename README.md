@@ -11,9 +11,9 @@
    7. [x] Functions in python.  
    8. [ ] Python classes.  
 - Popular Libraries: `Henry`
-   1. [ ] How to use numpy in AI.  
-   2. [ ] How to use Pandas in AI.  
-   3. [ ] How to use MatPlotLib (we will talk more about this).  
+   1. [x] How to use numpy in AI.  
+   2. [x] How to use Pandas in AI.  
+   3. [x] How to use MatPlotLib (we will talk more about this).  
    4. [ ] Working with files (new lesson but its pandas).  
 - [x] The command line `Alejandro`:
 - Data Science Intro `Henry`  
