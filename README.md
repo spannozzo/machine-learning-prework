@@ -18,7 +18,7 @@
 - [x] The command line `Alejandro`:
 - Data Science Intro `Henry`  
    1. [ ] Types of data.  
-   2. [ ] Metricas estadisticas.  
+   2. [ ] Statistical metrics.  
    3. [ ] Quantile vs Percentile.  
    4. [ ] Data visualization: One variable.  
    5. [ ] Data visualization: Two variable.  
