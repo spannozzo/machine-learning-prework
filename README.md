@@ -2,7 +2,7 @@
 
 ### Lessons:
 
-- About python: `Alejandro`   
+- About python:  
    1. [x] Intro to python.  
    2. [x] Working with strings in python.
    3. [x] Working with contitionals in python.
@@ -10,13 +10,13 @@
    5. [ ] Array's in pandas.
    7. [x] Functions in python.  
    8. [ ] Python classes.  
-- Popular Libraries: `Henry`
+- Popular Libraries:
    1. [x] How to use numpy in AI.  
    2. [x] How to use Pandas in AI.  
    3. [x] How to use MatPlotLib (we will talk more about this).  
    4. [ ] Working with files (new lesson but its pandas).  
-- [x] The command line `Alejandro`:
-- Data Science Intro `Henry`  
+- [x] The command line:
+- Data Science Intro:
    1. [ ] Types of data.  
    2. [ ] Statistical metrics.  
    3. [ ] Quantile vs Percentile.  
@@ -27,5 +27,5 @@
 ## Excercises:
 
 - Intro to python
-- Intro to data-science, algo asi pero para dat-asicence https://github.com/4GeeksAcademy/python-beginner-programming-exercises
+- Intro to data-science, algo asi pero para data-asicence https://github.com/4GeeksAcademy/python-beginner-programming-exercises
 - Project: Limpieza de datos y estadísticas básicas. Agarrar un CSV y dejarlo listo para poder analizar datos, obtener info de la data.
