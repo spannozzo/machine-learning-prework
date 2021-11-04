@@ -1,21 +1,25 @@
 # Machine Learning Syllabus
 
+Welcome to the Machine Learning Prework at 4Geeks Academy. Below you will find the prework table of contents, it is strongly adviced to follow the content in the same order that the tabled of contents is structured.
+
 ### Lessons:
 
+- Welcome
+   1. Prework welcome
+   2. [ ] The command line
 - About python:  
-   1. [x] Intro to python.  
-   2. [x] Working with strings in python.
-   3. [x] Working with contitionals in python.
-   4. [x] Datatypes Tuple vs List.
+   1. Intro to python.  
+   2. Working with strings in python.
+   3. Working with contitionals in python.
+   4. Datatypes Tuple vs List.
    5. [ ] Array's in pandas.
-   7. [x] Functions in python.  
-   8. [ ] Python classes.  
+   7. Functions in python.  
+   8. Exercises about python.
 - Popular Libraries:
-   1. [x] How to use numpy in AI.  
-   2. [x] How to use Pandas in AI.  
-   3. [x] How to use MatPlotLib (we will talk more about this).  
+   1. How to use numpy in AI.  
+   2. How to use Pandas in AI.  
+   3. How to use MatPlotLib (we will talk more about this).  
    4. [ ] Working with files (new lesson but its pandas).  
-- [x] The command line:
 - Data Science Intro:
    1. [ ] Types of data.  
    2. [ ] Statistical metrics.  
@@ -26,6 +30,5 @@
 
 ## Excercises:
 
-- Intro to python
 - Intro to data-science, algo asi pero para data-asicence https://github.com/4GeeksAcademy/python-beginner-programming-exercises
 - Project: Limpieza de datos y estadísticas básicas. Agarrar un CSV y dejarlo listo para poder analizar datos, obtener info de la data.
