@@ -32,3 +32,9 @@ Welcome to the Machine Learning Prework at 4Geeks Academy. Below you will find t
 
 - Intro to data-science, algo asi pero para data-asicence https://github.com/4GeeksAcademy/python-beginner-programming-exercises
 - Project: Limpieza de datos y estadísticas básicas. Agarrar un CSV y dejarlo listo para poder analizar datos, obtener info de la data.
+
+
+
+Cosas que hay que decir en el video
+
+- Todos los codigos se pueden ejecutar.
