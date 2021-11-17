@@ -18,7 +18,7 @@ Welcome to the Machine Learning Prework at 4Geeks Academy. Below you will find t
 - Popular Libraries:
    1. How to use numpy in AI.  
    2. How to use Pandas in AI.  
-   3. How to use MatPlotLib (we will talk more about this).  
+   3. How to use MatPlotLib.  
 - Data Science Intro:
    1. Types of data.  
    2. Statistical metrics.  
